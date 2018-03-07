@@ -1,0 +1,38 @@
+body {
+margin:0;
+background-size: 1800px 900px;
+background-repeat:no repeat;
+background-image: url("images/background.jpg");
+
+}
+
+.head {
+	background-color: yellow;
+}
+
+.Planet {
+	background-color: yellow;
+}
+
+.h1 {
+	text-align: center;
+	background-color: yellow;
+}
+table {
+border-collapse: collapse;
+width: 100%;
+}
+
+th, td {
+padding: 8px;
+text-align: left;
+border-bottom: 1px solid #ddd;
+color: #27408b;
+text-align: center;
+}
+
+h1, h2, h3 {
+  font-style: normal;
+  font-family: "Copperplate Gothic", cursive;
+  color: #27408b;
+  text-align: center;
