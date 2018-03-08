@@ -7,17 +7,50 @@ background-image: url("images/background.jpg");
 }
 
 .head {
-	background-color: yellow;
+	color: yellow;
 }
 
-.Planet {
-	background-color: yellow;
+.Name {
+	color: yellow;
+}
+.Mass { 
+	color: yellow;
 }
 
-.h1 {
+.Diameter {
+	color: yellow;
+}
+.Mean {
+	color: yellow;
+}
+
+.Escape {
+	color: yellow;
+}
+
+.Average {
+	color: yellow;
+}
+.Rotation {
+	color: yellow;
+}
+.Revolution {
+	color: yellow;
+}
+
+h1 {
 	text-align: center;
+	font-family: 'Copperplate Gothic';
 	background-color: yellow;
+	margin:auto;
 }
+
+img {
+	width: 200px;
+	height: 200px;
+	padding:50px;
+	border:50px
+} 
 table {
 border-collapse: collapse;
 width: 100%;
@@ -31,8 +64,3 @@ color: #27408b;
 text-align: center;
 }
 
-h1, h2, h3 {
-  font-style: normal;
-  font-family: "Copperplate Gothic", cursive;
-  color: #27408b;
-  text-align: center;
