@@ -7,37 +7,47 @@ background-image: url("images/background.jpg");
 
 .Planet {
 	text-align:right;
+	font-family: 'Copperplate Gothic'; 
 }
 .head {
 	color: yellow;
+	font-family: 'Copperplate Gothic'; 
 }
 
 .Name {
 	color: yellow;
+	font-family: 'Copperplate Gothic'; 
 }
 .Mass { 
 	color: yellow;
+	font-family: 'Copperplate Gothic'; 
 }
 
 .Diameter {
 	color: yellow;
+	font-family: 'Copperplate Gothic'; 
 }
 .Mean {
 	color: yellow;
+	font-family: 'Copperplate Gothic'; 
 }
 
 .Escape {
 	color: yellow;
+	font-family: 'Copperplate Gothic'; 
 }
 
 .Average {
 	color: yellow;
+	font-family: 'Copperplate Gothic'; 
 }
 .Rotation {
 	color: yellow;
+	font-family: 'Copperplate Gothic'; 
 }
 .Revolution {
 	color: yellow;
+	font-family: 'Copperplate Gothic'; 
 }
 
 h1 {
