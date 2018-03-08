@@ -3,9 +3,11 @@ margin:0;
 background-size: 1800px 900px;
 background-repeat:no repeat;
 background-image: url("images/background.jpg");
-
 }
 
+.Planet {
+	text-align:right;
+}
 .head {
 	color: yellow;
 }
@@ -46,21 +48,13 @@ h1 {
 }
 
 img {
-	width: 200px;
-	height: 200px;
-	padding:50px;
+	width: 125px;
+	height: 125px;
+	padding:2px;
 	border:50px
 } 
 table {
-border-collapse: collapse;
-width: 100%;
-}
-
-th, td {
-padding: 8px;
-text-align: left;
-border-bottom: 1px solid #ddd;
-color: #27408b;
-text-align: center;
+	margin-left:auto;
+	margin-right:auto;
 }
 
